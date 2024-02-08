@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668185295 source:c:\users\eslam\onedrive\desktop\fixed relative path\app\app.c
+	"App.h"
+	<time.h>
+
+1668185702 c:\users\eslam\onedrive\desktop\fixed relative path\app\app.h
+	"../Server/Server.h"
+
+1668185716 c:\users\eslam\onedrive\desktop\fixed relative path\server\server.h
+	"../Terminal/Terminal.h"
+	<string.h>
+
+1668185729 c:\users\eslam\onedrive\desktop\fixed relative path\terminal\terminal.h
+	"../Card/Card.h"
+
+1668185294 c:\users\eslam\onedrive\desktop\fixed relative path\card\card.h
+	<stdio.h>
+
+1668185295 source:c:\users\eslam\onedrive\desktop\fixed relative path\card\card.c
+	"Card.h"
+
